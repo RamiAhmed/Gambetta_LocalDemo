@@ -12,4 +12,7 @@ The demo is basically a `C#` Unity implementation of [Gambetta's Live Demo](http
 2. Hit 'Play' in Unity
 3. Play around with settings on the "World" game object in the scene
 
+# Networked Demo
+See [this repository](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) for a networked (multiplayer) demo version of this project.
+
 License: MIT
